@@ -1,0 +1,25 @@
+html{
+  background-color: black;
+}
+
+.poster{
+  width: 50%;
+  margin-left: 25%;
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+.jimmybutler{
+  width: 100%;
+  border: 5px solid white;
+}
+
+h1{
+  font-family: 'Libre Baskerville', serif;
+  color: white;
+  text-transform: uppercase;
+
+}
